@@ -106,3 +106,6 @@
 - YOLO모델은 큰 bounding box와 작은 bounding box의 loss에 대해 동일한 가중치를 둔다는 단점 존재
     - 큰 bounding box는 위치가 약간 달라져도 비교적 성능에 별 영향을 주지 않지만 크기가 작은 bounding box는 위치가 조금만 달라져도 성능에 큰 영향을 줌
     - 큰 bounding box에 비해 작은 bounding box가 위치 변화에 따른 IOU 변화가 더 심하기 때문 = localization 문제
+
+
+ddd
